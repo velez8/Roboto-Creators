@@ -1,0 +1,13 @@
+body{
+    background:gold;
+    text-align:center;
+}
+img {
+    text-align:center;
+    width: 700px;
+    border:15px solid blue;
+}
+h1 {
+    font-family: 'Charmonman', cursive;  
+    font-size:45px;
+}
